@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#screen {
+  background-image: url("./bg.png") !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
